@@ -99,7 +99,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         child: CircleAvatar(
                           radius: 20,
                           backgroundImage: NetworkImage(
-                              'https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'),
+                              'https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?auto=compress&cs=tinysrgb&w=1200'),
 
                         ),
                       )
@@ -129,7 +129,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       leading: CircleAvatar(
                         radius: 20,
                         backgroundImage: NetworkImage(
-                            'https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'),
+                            'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'),
                         // backgroundColor: Colors.black,
                         // child: Icon(Icons.account_circle,color: Colors.white ,),
                       ),
